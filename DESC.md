@@ -10,8 +10,8 @@
 
 
 #### What are the different ways we can create a custom widget?
-	 - We can build our custom	 widgets by combining simpler 		widgets(predefine widget)
-	 -  We can also use customPainter to Draw widget.
+ 	- We can build our custome widgets by combining simpler widgets(predefine widget)
+	- We can also use customPainter to Draw widget.
 
 
 #### How can I access platform(iOS or Android) specific code from Flutter?               
