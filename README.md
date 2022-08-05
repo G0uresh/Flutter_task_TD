@@ -95,4 +95,4 @@ Question 3 :
 1. The method name should start with lowerCamelCase (Best practice)
 2. No issue found .The counting variable will always return  1000000000 regardless of initial values of i and counting variable.
 3. We can also use while loop and eliminate creating extra variable
-4. function say 
+
