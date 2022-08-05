@@ -93,4 +93,6 @@ Question 3 :
 <img width="648" alt="Screenshot 2022-08-05 at 11 57 51 AM" src="https://user-images.githubusercontent.com/25320909/183015311-eb047f55-ba22-4e9c-b03e-6a932d3dd4ec.png">
 
 1. The method name should start with lowerCamelCase (Best practice)
-2. Dont find any issue .The counting variable will always return  1000000000 regardless of initial values of i and counting variable.
+2. No issue found .The counting variable will always return  1000000000 regardless of initial values of i and counting variable.
+3. We can also use while loop and eliminate creating extra variable
+4. function say 
