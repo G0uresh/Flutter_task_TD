@@ -10,11 +10,13 @@
 
 
 2. What are the different ways we can create a custom widget?
-Ans : 1. We can build our custome widgets by combining simpler widgets(predefine widget)
-      2. We can also use customPainter to Draw widget.
+
+Ans :       1. We can build our custome widgets by combining simpler widgets(predefine widget)
+            2. We can also use customPainter to Draw widget.
 
 
 
 
 3. How can I access platform(iOS or Android) specific code from Flutter?
-Ans: We can acces platform specific code using platform channels. We can use a Method channel , Event Channel 
+
+Ans:  We can acces platform specific code using platform channels. We can use a Method channel , Event Channel 
